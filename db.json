@@ -1,9 +1,128 @@
 {
-    "notas": [
-      {
-        "id": 1,
-        "titulo": "Estudar JS",
-        "status": true
-      }
-    ]											
-  }
+  "Prof Julia":[
+    {
+      "id": 1,
+      "Aluno": "Antonio Carlos",
+      "Nascimento": "11/08/1995",
+      "AV 1": "5.0",
+      "AV 2": "7.0",
+      "AV 3": "10",
+      "NF": "8.5",
+      "Aprovado" : true
+    },
+    {
+      "id": 2,
+      "Aluno": "Lucas Oliveira",
+      "Nascimento": "12/01/1997",
+      "AV 1": "5.0",
+      "AV 2": "4.0",
+      "AV 3": "6.0",
+      "NF": "5.5",
+      "Aprovado" : false
+    },
+    {
+      "id": 3,
+      "Aluno": "Vitoria Tavares",
+      "Nascimento": "03/03/1998",
+      "AV 1": "10",
+      "AV 2": "10",
+      "AV 3": "10",
+      "NF": "10",
+      "Aprovado" : true
+    },
+    {
+      "id": 4,
+      "Aluno": "Matheus Correia",
+      "Nascimento": "14/07/1996",
+      "AV 1": "8.0",
+      "AV 2": "6.0",
+      "AV 3": "0",
+      "NF": "7.0",
+      "Aprovado" : true
+    }
+  ],
+  "Prof Jorge":[
+    {
+      "id": 1,
+      "Aluno": "Manuela",
+      "Nascimento": "31/10/1997",
+      "AV 1": "10",
+      "AV 2": "8.0",
+      "AV 3": "10",
+      "NF": "10",
+      "Aprovado" : true
+    },
+    {
+      "id": 2,
+      "Aluno": "Miguel Angelo",
+      "Nascimento": "08/11/1996",
+      "AV 1": "5.0",
+      "AV 2": "7.0",
+      "AV 3": "10",
+      "NF": "8.5",
+      "Aprovado" : true
+    },
+    {
+      "id": 3,
+      "Aluno": "João Vitor",
+      "Nascimento": "11/08/1995",
+      "AV 1": "7.0",
+      "AV 2": "5.0",
+      "AV 3": "0",
+      "NF": "6.0",
+      "Aprovado" : true
+    },
+    {
+      "id": 4,
+      "Aluno": "João Pedro",
+      "Nascimento": "12/07/1996",
+      "AV 1": "5.0",
+      "AV 2": "7.0",
+      "AV 3": "7.0",
+      "NF": "7.0",
+      "Aprovado" : true
+    }
+  ],
+  "Prof Daniela":[
+    {
+      "id": 1,
+      "Aluno": "Elisa Samudio",
+      "Nascimento": "06/06/1996",
+      "AV 1": "6.0",
+      "AV 2": "6.0",
+      "AV 3": "6.0",
+      "NF": "6.0",
+      "Aprovado" : true
+    },
+    {
+      "id": 2,
+      "Aluno": "Menma Namikaze",
+      "Nascimento": "10/10/1995",
+      "AV 1": "9.0",
+      "AV 2": "8.0",
+      "AV 3": "9.0",
+      "NF": "9.0",
+      "Aprovado" : true
+    },
+    {
+      "id": 3,
+      "Aluno": "Izuku Midoria",
+      "Nascimento": "07/07/1996",
+      "AV 1": "8.0",
+      "AV 2": "7.0",
+      "AV 3": "0",
+      "NF": "7.5",
+      "Aprovado" : true
+    },
+    {
+      "id": 4,
+      "Aluno": "Pietro Tavares",
+      "Nascimento": "28/06/1998",
+      "AV 1": "9.0",
+      "AV 2": "9.0",
+      "AV 3": "10",
+      "NF": "9.5",
+      "Aprovado" : true
+    }
+  ]
+}

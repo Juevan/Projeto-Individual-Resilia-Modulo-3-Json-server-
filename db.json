@@ -1,5 +1,5 @@
 {
-  "Prof Julia":[
+  "Prof-Julia":[
     {
       "id": 1,
       "Aluno": "Antonio Carlos",
@@ -41,7 +41,7 @@
       "Aprovado" : true
     }
   ],
-  "Prof Jorge":[
+  "Prof-Jorge":[
     {
       "id": 1,
       "Aluno": "Manuela",
@@ -83,7 +83,7 @@
       "Aprovado" : true
     }
   ],
-  "Prof Daniela":[
+  "Prof-Daniela":[
     {
       "id": 1,
       "Aluno": "Elisa Samudio",

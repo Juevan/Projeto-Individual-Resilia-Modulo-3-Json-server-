@@ -10,12 +10,34 @@
   ],
   "operadores":[
     {
-      
+      "id": 1,
+      "Nome": "Antonio",
+      "Sobrenome": "Juevan",
+      "Usuario": "Antonio",
+      "Senha": "24260630"
     }
   ],
   "produtos":[
     {
-
+      "id": 1,
+      "Nome": "Carregador Type-C Xiaomi",
+      "QTD": 10,
+      "Marca": "Xiaomi",
+      "Imagem": "https://m.media-amazon.com/images/I/51bKGAEhvVL._AC_SX385_.jpg"
+    },
+    {
+      "id": 2,
+      "Nome": "Fone de Ouvido Bluetooth",
+      "QTD": 10,
+      "Marca": "Haylou",
+      "Imagem": "https://m.media-amazon.com/images/I/51yNXM1E32L._AC_SY450_.jpg"
+    },
+    {
+      "id": 3,
+      "Nome": "Mouse Gamer Alienware",
+      "QTD": 10,
+      "Marca": "Alienware",
+      "Imagem": "https://m.media-amazon.com/images/I/51yNXM1E32L._AC_SY450_.jpg"
     }
   ]
 }

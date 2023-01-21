@@ -7,7 +7,7 @@ O intuito do projeto é desenvolver um servidor json (Json-server) contendo 3 ro
 <li>Servidor hospedado no <a href="https://render.com/">Render</a>.</li>
 <li>Nodejs e Json-server instalados.</li>
 <li>Métodos GET, POST, PUT, DELETE funcionais.</li>
-<li>Tema escolhido: Escola.</li>
+<li>Tema escolhido: Eletrônicos.</li>
 
 ## 🛠️ Tecnologias Utilizadas
 

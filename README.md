@@ -12,8 +12,7 @@ O intuito do projeto é desenvolver um servidor json (Json-server) contendo 3 ro
 ## 🛠️ Tecnologias Utilizadas
 
 <div style="display:flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style=" width:30px;cursor:default"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style=" width:30px;cursor:default"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style=" width:30px;cursor:default"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style=" width:30px;cursor:default"/> 
 </div>
 

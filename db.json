@@ -17,6 +17,12 @@
       "Senha": "24260630"
     }
   ],
+    "status":[
+    {
+      "id": 1,
+      "Logado": "false"
+    }
+  ],
   "produtos":[
     {
       "id": 1,
@@ -38,6 +44,69 @@
       "QTD": 10,
       "Marca": "Alienware",
       "Imagem": "https://images.tcdn.com.br/img/img_prod/458206/mouse_dell_alienware_advanced_gamer_aw558_5000dpi_preto_e_prata_16751_1_20190125100453.jpg"
+    },
+    {
+      "id": 4,
+      "Nome": "Teclado Gamer Alienware",
+      "QTD": 10,
+      "Marca": "Alienware",
+      "Imagem": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/peripherals/input-devices/dell/keyboards/aw510k/gray/ng/keyboard-alienware-aw510k-campaign-hero-504x350-ng.psd?fmt=jpg"
+    },
+    {
+      "id": 5,
+      "Nome": "Carregador Portátil Samsung",
+      "QTD": 10,
+      "Marca": "Samsung",
+      "Imagem": "https://images.tcdn.com.br/img/img_prod/910983/carregador_portatil_power_bank_original_samsung_eb_p1100cppgbr_bateria_externa_10000mah_2x_usb_e_1_t_193_1_cfc8cc30ffcf3fffbb945e01ae23a83c_20211116083320.jpg"
+    },
+    {
+      "id": 6,
+      "Nome": "Roteador TP-Link",
+      "QTD": 10,
+      "Marca": "TP-Link",
+      "Imagem": "https://www.syma.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/r/o/roteador-wireless-dual-band-ac1200-archer-c50-tp-link-1.jpg"
+    },
+        {
+      "id": 7,
+      "Nome": "Cabo Type-C Elg",
+      "QTD": 10,
+      "Marca": "Elg",
+      "Imagem": "https://img.kalunga.com.br/fotosdeprodutos/745406z_1.jpg"
+    },
+    {
+      "id": 8,
+      "Nome": "Controle Xbox",
+      "QTD": 10,
+      "Marca": "Microsoft",
+      "Imagem": "https://m.media-amazon.com/images/I/41r-zzwBe3L._AC_SX522_.jpg"
+    },
+    {
+      "id": 9,
+      "Nome": "Mousepad Lehmox",
+      "QTD": 10,
+      "Marca": "Lehmox",
+      "Imagem": "https://a-static.mlcdn.com.br/800x560/mousepad-super-speed-mouse-pad-grande-premium-90x30-game-lehmox/afastore/x3pad-2/3c92a4c51e9aa34ab5d88d4494e492c9.jpg"
+    },
+    {
+      "id": 10,
+      "Nome": "SmartBand",
+      "QTD": 10,
+      "Marca": "Xiaomi",
+      "Imagem": "https://images-americanas.b2w.io/produtos/4726468201/imagens/relogio-smartwatch-m6-inteligente-para-android-e-ios-bluetooth-com-carregamento-usb/4726468201_1_large.jpg"
+    },
+    {
+      "id": 11,
+      "Nome": "Webcam Logitech",
+      "QTD": 10,
+      "Marca": "Logitech",
+      "Imagem": "https://images.kabum.com.br/produtos/fotos/103962/webcam-logitech-brio-4k-pro-full-hd-tecnologia-hdr-rightlight-3_webcam-logitech-brio-4k-pro-full-hd-tecnologia-hdr-rightlight-3_1567705455_original.jpg"
+    },
+    {
+      "id": 12,
+      "Nome": "Pendrive 64GB Adata",
+      "QTD": 10,
+      "Marca": "Adata",
+      "Imagem": "https://infostore.vteximg.com.br/arquivos/ids/210614-1000-1000/pendrive-64gb-usb-3-2-uv350-prata-adata-3.jpg?v=637606004521770000"
     }
   ]
 }
